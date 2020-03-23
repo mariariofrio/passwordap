@@ -28,7 +28,9 @@ if (
   lowercasecheck === false &&
   uppercasecheck === false &&
   numbercheck === false
-) {
+) 
+
+{
   alert("password must have special,lowercase, uppercase or a number character");
   // return;
 }
